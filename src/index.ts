@@ -1,5 +1,5 @@
-import isColor from './is-color';
+import filterArray from './filterArray';
 
 export {
-  isColor,
+  filterArray,
 }; 
